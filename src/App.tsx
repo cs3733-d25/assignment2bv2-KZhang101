@@ -4,6 +4,7 @@ import './list.css'
 import {title} from "./title.tsx";
 import Intro from "./intro.tsx";
 import KangsHobby from "./hobby1.tsx";
+import AndysHobby from "./hobby2.tsx";
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -13,6 +14,7 @@ function App() {
         {title('CS3733-D25', 24, "Kang and Andy")}
         <Intro username="Kang and Andy"/>
         <KangsHobby/>
+        <AndysHobby/>
     </>
   )
 }
