@@ -3,8 +3,8 @@ import './App.css'
 import './list.css'
 import {title} from "./title.tsx";
 import Intro from "./intro.tsx";
-import KangsHobby from "./hobby1.tsx";
-import AndysHobby from "./hobby2.tsx";
+import KangsHobby from "./kangs/hobby1.tsx";
+import AndysHobby from "./Andy/hobby2.tsx";
 
 function App() {
   // const [count, setCount] = useState(0)
