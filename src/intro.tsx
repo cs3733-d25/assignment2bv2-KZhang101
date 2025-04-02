@@ -10,8 +10,9 @@ export function Intro(props) {
             <h2>{props.username}</h2>
             <p>Hello! This is Kang's and Andy's introduction. Kang is
             a RBE and CS major, and he is excited to learn about software engineering!
-            {/*Andy, please write your description here below */}
 
+            I'm Andy, and I'm a student at WPI. I'm currently doing my bachelors'degree in Computer Science.
+            My biggest dream is to become a better version of myself every day.
             </p>
 
         </div>
