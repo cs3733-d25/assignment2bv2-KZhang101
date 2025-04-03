@@ -6,12 +6,7 @@
 function AndysHobby() {
     return (
         <div>
-            <p>
-                I'm Andy, and I'm a student at WPI. I'm currently doing my bachelors'degree in Computer Science.
-                My biggest dream is to become a better version of myself every day.
-            </p>
-
-            <p>
+            <p className = "andyhobby">
                 My favorite hobbies are play video games, watch movies, go out with my girlfriend, and workout at the
                 gym.
             </p>

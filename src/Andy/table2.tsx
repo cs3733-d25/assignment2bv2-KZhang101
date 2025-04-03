@@ -1,6 +1,6 @@
 function AndysTable(){
     return(
-        <table className="collapse">
+        <table className="andytable">
             <caption>WPI Academic Record</caption>
             <thead>
             <tr>
