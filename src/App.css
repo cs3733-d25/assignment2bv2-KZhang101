@@ -85,22 +85,50 @@ th, td{
 
 .andytable{
   border-collapse: collapse;
-  border: 1px solid black;
+  width: 80%;
+  margin: 20px auto;
+  border: 2px solid #333;
 }
 
 .andyhobby{
-  text-align: left;
   background-color: #213547;
   padding: 20px;
-  border-radius: 10px;
-  border: 3px solid darkgrey;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
 }
 
 .andyform{
-  border-radius: 10px;
-  border: 3px solid white;
-  padding: 10px;
-  padding-top: 0px;
-  background-color: cornflowerblue;
-  color: black
+  background-color: #213547;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  width: 80%;
+  margin: 20px auto;
+  text-align: left;
 }
+
+.andyList {
+  font-family: 'Arial', sans-serif;
+  color: #f9f9f9;
+  padding-left: 20px;
+  text-align: center;
+  width: 80%;
+  margin: 20px auto;
+
+}
+
+.andyList li {
+  font-size: 16px;
+  margin-bottom: 8px;
+  line-height: 1.8;
+  padding-left: 10px;
+}
+
+.form-container {
+  background-color: lightskyblue;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+

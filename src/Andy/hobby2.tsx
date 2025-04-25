@@ -9,7 +9,7 @@ import AndysTable from "./table2.tsx";
 import AndysForm from "./form2.tsx";
 function AndysHobby() {
     return (
-        <div>
+        <div className = "form-container">
 
             <h2>Andy's Hobbies</h2>
             <div id="rc">
